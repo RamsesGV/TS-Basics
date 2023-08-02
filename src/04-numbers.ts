@@ -22,3 +22,6 @@ let bin = 0b0100110101
 console.log(bin)
 })()
 
+function sumar (numA:number, numB:number):number{
+  return numA + numB
+  }
